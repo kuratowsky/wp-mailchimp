@@ -57,6 +57,7 @@ Currently we have the plugin configured so it can be easily translated and the f
 
 * bg_BG - Bulgarian in Bulgaria (thanks to [SiteGround](http://www.siteground.com/wordpress-hosting.htm) for contributing)
 * cs_CZ - Czech in the Czech Republic (thanks to [Peter Kahoun](http://kahi.cz/) for contributing)
+* ca_ES - Catalan in Spain (thanks to [Benet Joan Darder](http://benetjoandarder.cat/) for contributing)
 * da_DK - Danish in Denmark (thanks to Jan Lund for contributing)
 * de_DE - German in Germany (thanks to Michael Jaekel for contributing)
 * el_GR - Modern Greek in Greece (thanks to Ιωάννης Δημοφέρλιας (John Dimoferlias) for contributing)
